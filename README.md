@@ -1,15 +1,58 @@
-# Case_Study
-## This is homework for week 1.
-### I'm happy. 
-**Is it true?**
-*We may assume without the loss of generality that it is true.*
-> Here's another test. 
-1. Hello!
-2. How are you?
-3. Probably you feel good. 
-4. I'm good as well.
-- this is next try
-- again
-'this is code part'
+# Case Study of PayPal
+
 ---
-[a link](https://www.google.com)
+
+## Introduction 
+
+*PayPal is a well-known fintech company that provides online payment services and digital wallet solutions. Founded in December 1998 as Confinity by Max Levchin, Peter Thiel, and Luke Nosek, it later merged with X.com, an online banking company founded by Elon Musk. X.com was eventually renamed PayPal in 2001.* 
+
+![Logo](images\Paypal_logo.jpg)
+
+---
+
+## Who are Paypal's competitors?
+
+*In the area of online payment and digital wallet, Paypal has several competitors. Here are some examples: Apple Pay, Amazon Pay and Google Pay.*
+
+---
+
+## How does this company use technology to their advantage? 
+
+1. Online payment: *It uses encryption technology to protect sensitive financial information during transactions. *
+2. Mobile apps: *The apps leverage mobile technology to provide a convenient and user-friendly experience.*
+
+---
+
+## Strength and weakness of Paypal
+
+- Strengths: 
+1. Wide Acceptance: *PayPal is widely accepted by online merchants and e-commerce platforms, making it convenient for users to make online payments across a variety of websites.*
+2. Security: *PayPal places a strong emphasis on security and employs advanced encryption and fraud prevention measures to protect user accounts and financial information.*
+3. Ease of Use: *PayPal is known for its user-friendly interface, making it easy for individuals and businesses to send and receive money online.*
+- Weakness: 
+1. Transaction Fees: *While PayPal is free to use for personal transactions, it charges fees for certain types of transactions, particularly for businesses. These fees can add up for businesses with high transaction volumes.*
+2. Limited Buyer Protection: *Buyer protection is not absolute, and certain conditions must be met for users to qualify for reimbursement in case of disputes.*
+3. Account Freezes: *Some users have reported instances of PayPal freezing or limiting access to their accounts, which can be a frustrating experience.*
+
+---
+
+## Paypal in the future
+
+Paypal may expect and pursue the followings:
+
+1. *Continued Growth in Digital Payments*
+2. *Expanding Cryptocurrency Services*
+3. *International Expansion*
+
+---
+
+### Report
+
+- In this case study, I learned the basic knowledge of Paypal, what it is about and its basic functions What's more important is that I practiced typing with Markdown codes and commit files to Github repository. 
+
+---
+
+> ** Contributor: Song Gao **
+
+---
+[Wikipedia page](https://en.wikipedia.org/wiki/PayPal)
