@@ -55,5 +55,6 @@ Paypal may expect and pursue the followings:
 >  Contributor: Song Gao 
 
 ---
-** Links **
+**Links**
+
 [Wikipedia page of Paypal](https://en.wikipedia.org/wiki/PayPal)
