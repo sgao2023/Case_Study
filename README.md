@@ -1,2 +1,2 @@
 # Case_Study
-Week 1 homework
+This is homework for week 1.
