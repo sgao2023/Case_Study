@@ -6,7 +6,7 @@
 
 *PayPal is a well-known fintech company that provides online payment services and digital wallet solutions. Founded in December 1998 as Confinity by Max Levchin, Peter Thiel, and Luke Nosek, it later merged with X.com, an online banking company founded by Elon Musk. X.com was eventually renamed PayPal in 2001.* 
 
-![Logo](.\images\Paypal_logo.png)
+![Paypal_Logo](images/Paypal_logo.png)
 
 ---
 
